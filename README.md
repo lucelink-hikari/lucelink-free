@@ -1,5 +1,5 @@
-<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/6c1f02cf-f19b-4b50-85ab-fa2aede7423d" />
-# lucelink-free
+
+## lucelink-free
 
 LuceLink Free（ルーチェリンク フリー）は、iPhone / Android 向けの AI チャットアプリです。
 
